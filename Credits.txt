@@ -1,0 +1,24 @@
+Original engine by marmitoTH
+https://github.com/marmitoTH/Godot-Sonic-Physics
+
+Original tile art from the Sonic Worlds Delta Art Kit
+Created by Techokami
+
+New GoDelta Tilesets created by Hedgie
+That was hourts of work man!
+
+Font Art by Techokami
+
+Blank File Select by Thekessler12
+
+Combination by Junko Shiratsu & Mariko Nanba
+From Knuckles Chaotix
+
+Staff Roll by 
+Tatsuyuki Maeda
+Kenichi Tokoi
+Hideaki Kobayashi
+Masaru Setsumaru
+Fumie Kumatani
+Tomoya Ohtani
+From Sonic Advanced 3

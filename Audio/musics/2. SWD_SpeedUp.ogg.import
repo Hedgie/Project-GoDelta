@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/2. SWD_SpeedUp.ogg-2d4dbfc11d434a6c01f9f11ae2635c98.oggstr"
+
+[deps]
+
+source_file="res://Audio/musics/2. SWD_SpeedUp.ogg"
+dest_files=[ "res://.import/2. SWD_SpeedUp.ogg-2d4dbfc11d434a6c01f9f11ae2635c98.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

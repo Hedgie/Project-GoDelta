@@ -1,0 +1,4 @@
+This is a set of basic art assets to use in your fangame. All I ask in return is that you give me (Techokami) credit for it.
+The Template Tileset is what I used to make the Base Level tileset. It contains a lot of pre-made shapes and slopes that you can edit into original tiles for your fangame levels.
+The Title Card Font is an original font I created for Sonic Worlds Delta. It replaces the messy and incomplete Sonic CD title card font that was used before, so you can more easily focus on building the level instead of the title card.
+The blank file select image is for the new main menu provided by Thekessler12. You can edit this into whatever you need.

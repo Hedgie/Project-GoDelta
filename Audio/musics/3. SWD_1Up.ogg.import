@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/3. SWD_1Up.ogg-c1b2e678a87a4f041543c72340332376.oggstr"
+
+[deps]
+
+source_file="res://Audio/musics/3. SWD_1Up.ogg"
+dest_files=[ "res://.import/3. SWD_1Up.ogg-c1b2e678a87a4f041543c72340332376.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

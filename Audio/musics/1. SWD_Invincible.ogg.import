@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/1. SWD_Invincible.ogg-8ff62d7ad9e49eb409a0ab7ce983e969.oggstr"
+
+[deps]
+
+source_file="res://Audio/musics/1. SWD_Invincible.ogg"
+dest_files=[ "res://.import/1. SWD_Invincible.ogg-8ff62d7ad9e49eb409a0ab7ce983e969.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
