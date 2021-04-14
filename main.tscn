@@ -2408,6 +2408,7 @@ region_rect = Rect2( 0, 0, 888, 145 )
 [node name="SignPost" type="Node" parent="Items"]
 
 [node name="Area2D" type="Area2D" parent="Items/SignPost"]
+script = ExtResource( 36 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Items/SignPost/Area2D"]
 shape = SubResource( 94 )
